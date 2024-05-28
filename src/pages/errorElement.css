@@ -1,0 +1,22 @@
+.errContainer{
+    margin-bottom: 2rem;
+}
+
+.errorMessage{
+    padding: 2rem;
+    color: #c90e0e;
+}
+
+.errorLink{
+    text-decoration: none;
+    margin: 2rem;
+    padding: 1rem 2rem;
+    color: gray;
+    cursor: pointer;
+    background: #1b1b1b;
+    border-radius: 0.6rem;
+}
+
+.errorLink:hover{
+ text-decoration: underline;
+}

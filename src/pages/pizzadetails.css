@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pizza-details-card{
+    padding: 1rem 1rem;
+    line-height: 1.3rem;
+    background: #292929;
+}
+
+.pizza-details-card a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: gray;
+}
+
+.pizza-details-card div h4{
+    color: gray;
+}
+
+
+.pizza-details-card img{
+    width: 100%;
+    border-radius: 0.4rem;
+    margin-top: 0.8rem;
+}
+
+.details-card-info{
+    margin-top: 0.5rem;
+    line-height: 1.5rem;
+}
+
+
+.pizza-details-card div h5{
+    color: gray;
+}
+
+.pizza-details-button{
+    border: none;
+    width: 100%;
+    outline: none;
+    background: red;
+    color: white;
+    text-align: center;
+    padding: 0.7rem 0.3rem;
+    margin-top: 0.6rem;
+    border-radius: 0.2rem;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+
+.loading{
+    color: white;
+}

@@ -1,0 +1,27 @@
+.world-nav{
+    padding: 0.4rem 0.3rem;
+}
+
+.world-nav a{
+    padding: 0.2rem 0.4rem;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: gray;
+}
+
+a.worldlinks{
+    text-decoration: underline 0.1rem solid;
+    font-weight: bolder;
+    color: red;
+    font-weight: bold;
+}
+
+.world-nav a:hover{
+    text-decoration: underline 0.15rem solid;
+    background: grey;
+    padding: 0.2rem 0.4rem;
+    font-weight: bold;
+    color: white;
+    border-radius: 0.155rem;
+    
+}

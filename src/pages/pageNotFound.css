@@ -1,0 +1,30 @@
+
+
+.pageNotFound{
+    height: 100vh;
+    padding: 2rem;
+}
+
+
+.pageNotFound h4{
+    color: gray;
+    font-size: smaller;
+}
+
+
+.pageNotFound button{
+    border: none;
+    outline: none;
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.9rem;
+    text-transform: capitalize;
+    background: red;
+    color:white;
+    font-weight: bold;
+    opacity: 0.8;
+    border-radius: 0.3rem;
+    cursor: pointer;
+
+}
+

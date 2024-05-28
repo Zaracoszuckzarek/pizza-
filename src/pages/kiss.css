@@ -1,0 +1,15 @@
+.filtersButtons{
+    padding: 0.4rem;
+    margin-left: 0.3rem;
+}
+
+.filtersButtons button{
+    outline: none;
+    border: none;
+    padding: 0.3rem;
+    margin-right: 0.3rem;
+    max-width: 6rem;
+    background: #1b1b1b;
+    color: gray;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-padding: none ;
+}
+
+body{
+    background: #292929;
+}
+
+.main--header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: black;
+    flex-flow: wrap;
+    background: #292929;
+    padding: 2rem 1.5rem;
+}
+
+
+.main--header a{
+ text-decoration: none;
+ color:gray;
+ font-size: small;
+}
+
+
+.main-header-nav a{
+    text-decoration: none;
+    padding: 0.2rem;
+}
+
+a.active-links{
+    text-decoration: underline 0.1rem solid;
+    font-weight: bold;
+    color: red;
+}

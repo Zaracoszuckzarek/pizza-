@@ -1,0 +1,22 @@
+.about-page-wrapper img{
+    width:100%;
+}
+.about-page-wrapper{
+    padding: 0.8rem 0.6rem;
+    background: #292929;
+}
+
+.about-page-wrapper h3{
+    padding: 2rem;
+    text-transform: capitalize;
+    text-align: center;
+    color: gray;
+    
+}
+
+.about-page-wrapper p{
+    padding: 0.6rem;
+    line-height: 1.5rem;
+    color:gray;
+}
+

@@ -1,0 +1,43 @@
+
+
+
+.home-page-wrapper{
+    padding: 0.8rem 0.4rem;
+    background: #292929;
+}
+
+.home-page-wrapper img{
+    width:100%;
+}
+
+.home-page-info{
+    margin-top: 1rem;
+}
+
+.home-page-info h2{
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 0.8rem;
+    color:gray;
+
+}
+.home-page-info p{
+    padding: 0.7rem 0.5rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.1rem;
+}
+
+.home-page-wrapper button{
+    outline: none;
+    border: none;
+    padding: 0.9rem 0.4rem;
+    text-transform: capitalize;
+    background: red;
+    color:whitesmoke;
+    font-weight: bold;
+    border-radius: 0.2rem;
+    cursor: pointer;
+    margin-top: 0.3rem;
+    opacity: 0.8;
+    width: 100%;
+}
